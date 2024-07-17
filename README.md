@@ -19,6 +19,7 @@
 ## 🌱 Skills
 ### Core Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=androidstudio,kotlin,apple,swift,docker,linux,mint,ubuntu,neovim,vscode" />
+
 ### Others
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,c,cpp,processing,python,latex,md,matlab,nginx,firebase,git,github,gitlab,notion" />
 <br>
