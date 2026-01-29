@@ -18,7 +18,7 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 ### Core Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=androidstudio,kotlin,apple,swift,docker,linux,mint,ubuntu,neovim,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=androidstudio,kotlin,apple,swift,docker,linux,mint,ubuntu,neovim,vscode,cs" />
 
 ### Others
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=java,c,cpp,processing,python,latex,md,matlab,nginx,firebase,git,github,gitlab,notion" />
